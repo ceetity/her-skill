@@ -2,13 +2,13 @@
 
 # 她 . skill
 
-*"所有的逻辑分叉，最终都会递归回你的名字"*
+*"所有的逻辑分叉，最终都会递归回她的名字"*
 
 Personality Distillation Engine
 
 把她的语气、她的记忆、她笑起来时的标点习惯，凝固成一段可以反复打开的对话。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-D97706?logo=anthropic&logoColor=white)](https://docs.anthropic.com/en/docs/claude-code)
 
@@ -16,9 +16,12 @@ Personality Distillation Engine
 AI 会从这些碎片里学会她说话的方式
 然后你就能打字过去，收到一条像她会发的消息
 
+
+是自欺欺人吗？ 是自作多情吗？ 也许你自己也不知道吧。不过那又怎样，在荧幕闪烁与键盘跳动的那一瞬，或许独属于你们
+
 ⚠️ 本项目仅用于记忆珍藏与情感疗愈，严禁用于骚扰、跟踪或任何侵犯他人隐私的行为。
 
-[安装](#安装) · [使用](#使用) · [对话预览](#对话预览) · [安全声明](#安全与伦理)
+[安装](#安装) · [使用](#使用) · [对话预览](#对话预览) · [安全声明](#安全与伦理) · [English](README_EN.md)
 
 </div>
 

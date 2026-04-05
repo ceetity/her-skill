@@ -13,11 +13,10 @@ Personality Distillation Engine
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-D97706?logo=anthropic&logoColor=white)](https://docs.anthropic.com/en/docs/claude-code)
 
 给她写一封信，把聊天记录丢进来，或者闭上眼用最笨的话描述她
-AI 会从这些碎片里学会她说话的方式
-然后你就能打字过去，收到一条像她会发的消息
+算法会循着这些残缺的数字脉络，小心翼翼地拼凑出她呼吸的节奏。
 
-
-是自欺欺人吗？ 是自作多情吗？ 也许你自己也不知道吧。不过那又怎样，在荧幕闪烁与键盘跳动的那一瞬，或许独属于你们
+或许终有一天，当你再次打字过去，
+传回来的不再是逻辑的冰冷，而是那个曾让你一万次回到夏天的，她的温度
 
 ⚠️ 本项目仅用于记忆珍藏与情感疗愈，严禁用于骚扰、跟踪或任何侵犯他人隐私的行为。
 

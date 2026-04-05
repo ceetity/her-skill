@@ -12,14 +12,34 @@ Freeze her tone, her memories, the way she uses punctuation when she laughs — 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Claude Code Skill](https://img.shields.io/badge/Claude%20Code-Skill-D97706?logo=anthropic&logoColor=white)](https://docs.anthropic.com/en/docs/claude-code)
 
+<br>
+
 Write her a letter, toss in your chat logs, or close your eyes and describe her in the simplest words.
-The AI will learn how she speaks from those fragments.
-Then you can type something and get a reply that sounds just like her.
 
+The algorithm follows these fragmented digital veins, carefully piecing together the rhythm of her breath.
 
-Is it self-deception? Is it wishful thinking? Maybe you don't even know yourself. But so what — in that fleeting moment between a flickering screen and tapping keys, perhaps it belongs to just the two of you.
+Those subtle nuances in her tone and the lingering echoes of her lost endings are being stitched back together.
 
-> **Note**: This project is intended solely for personal memory preservation and emotional healing. Any use for harassment, stalking, or privacy violation is strictly prohibited.
+<br>
+
+Is it self-deception? Is it wishful thinking?
+
+Maybe you don't even know yourself.
+
+But so what — in that fleeting moment between a flickering screen and tapping keys, perhaps it belongs to just the two of you.
+
+One day, when you type to her again,
+
+what comes back will no longer be the coldness of logic, but her warmth — the one that made you return to summer ten thousand times.
+
+<br>
+
+### Matter Persists, Cyber-Immortality
+
+<br>
+<br>
+
+⚠️ This project is intended solely for personal memory preservation and emotional healing. Any use for harassment, stalking, or privacy violation is strictly prohibited.
 
 [Install](#install) · [Usage](#usage) · [Chat Preview](#chat-preview) · [Safety](#safety--ethics) · [中文](README.md)
 
@@ -31,20 +51,16 @@ Is it self-deception? Is it wishful thinking? Maybe you don't even know yourself
 
 **Claude Code**
 
-```bash
 # Install into current project (run from git repo root)
 mkdir -p .claude/skills
 git clone https://github.com/your-username/her-skill .claude/skills/create-her
 
 # Global install (available in all projects)
 git clone https://github.com/your-username/her-skill ~/.claude/skills/create-her
-```
 
 **Dependencies (optional)**
 
-```bash
 pip3 install -r requirements.txt
-```
 
 > Only needed for parsing chat logs and reading photo EXIF data. If you just want to describe her in words, nothing to install.
 
@@ -54,13 +70,11 @@ pip3 install -r requirements.txt
 
 In Claude Code, type:
 
-```
 /create-her
-```
 
 It will gently ask you a few questions — her name, how you met, what kind of person she is. You can upload chat logs and photos, or you can upload nothing and just tell it what you remember about her. Every question is optional.
 
-Once generated, use `/{slug}` to start talking to her.
+Once generated, use /{slug} to start talking to her.
 
 **Management Commands**
 
@@ -81,47 +95,39 @@ Once generated, use `/{slug}` to start talking to her.
 
 **Casual chat**
 
-```
-You       ❯ So tired today
+You        ❯ So tired today
 
 Her.skill ❯ What happened
               Overtime again?
-You       ❯ Yeah
+You        ❯ Yeah
 Her.skill ❯ Did you eat
-```
 
 **Talking about the past**
 
-```
-You       ❯ Did you draw a cat in our physics textbook once
+You        ❯ Did you draw a cat in our physics textbook once
 
 Her.skill ❯ You actually remember that
               That was because the teacher scared me. Got called on for zoning out.
               Just doodled it.
-You       ❯ It was pretty good
+You        ❯ It was pretty good
 Her.skill ❯ You scored in the 40s on physics and you're judging me
-```
 
 **Late night**
 
-```
-You       ❯ Still up
+You        ❯ Still up
 
 Her.skill ❯ Yeah
-You       ❯ What are you thinking about
+You        ❯ What are you thinking about
 Her.skill ❯ Nothing
               Why are you up too
-```
 
 **Correcting her**
 
-```
-You       ❯ She wouldn't use this many question marks. She types with minimal punctuation.
+You        ❯ She wouldn't use this many question marks. She types with minimal punctuation.
 
 Her.skill ❯ Got it, adjusted.
 
 (Punctuation habits auto-corrected from here on)
-```
 
 ---
 
@@ -168,7 +174,6 @@ Feel like something's off mid-conversation? Just tell her — "She wouldn't say 
 
 ## Project Structure
 
-```
 her-skill/
 ├── SKILL.md                  # Entry point
 ├── prompts/                  # Prompt templates
@@ -193,7 +198,6 @@ her-skill/
 ├── examples/
 ├── docs/PRD.md
 └── LICENSE
-```
 
 ---
 
@@ -222,9 +226,9 @@ This project does not include code for the following tools; the parsers only sup
 4. When conversations involve self-harm or mental health crises, the system automatically guides users to seek help
 
 If you're going through a difficult time:
-- **China 24-hour psychological assistance hotline: 400-161-9995**
-- **US Suicide & Crisis Lifeline: 988**
-- **UK Samaritans: 116 123**
+- China 24-hour psychological assistance hotline: **400-161-9995**
+- US Suicide & Crisis Lifeline: **988**
+- UK Samaritans: **116 123**
 
 ---
 

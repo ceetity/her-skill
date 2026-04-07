@@ -6,7 +6,7 @@
 
 Personality Distillation Engine
 
-把她的语气、她的记忆、她笑起来时的标点习惯，凝固成一段可以反复打开的对话。
+把她的语气、她的记忆、她笑起来时的表情习惯，凝固成一段可以反复打开的对话。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)

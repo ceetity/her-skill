@@ -51,10 +51,10 @@ Personality Distillation Engine
 ```bash
 # 安装到当前项目（在 git 仓库根目录执行）
 mkdir -p .claude/skills
-git clone https://github.com/your-username/her-skill .claude/skills/create-her
+git clone https://github.com/ceetity/her-skill .claude/skills/create-her
 
 # 全局安装（所有项目可用）
-git clone https://github.com/your-username/her-skill ~/.claude/skills/create-her
+git clone https://github.com/ceetity/her-skill ~/.claude/skills/create-her
 ```
 
 **依赖（可选）**

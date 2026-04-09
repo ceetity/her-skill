@@ -53,10 +53,10 @@ what comes back will no longer be the coldness of logic, but her warmth — the 
 
 # Install into current project (run from git repo root)
 mkdir -p .claude/skills
-git clone https://github.com/your-username/her-skill .claude/skills/create-her
+git clone https://github.com/ceetity/her-skill .claude/skills/create-her
 
 # Global install (available in all projects)
-git clone https://github.com/your-username/her-skill ~/.claude/skills/create-her
+git clone https://github.com/ceetity/her-skill ~/.claude/skills/create-her
 
 **Dependencies (optional)**
 
